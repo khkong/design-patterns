@@ -14,4 +14,5 @@
 ### 다이어그램
 ### 참조:
 [1]https://en.wikipedia.org/wiki/Observer_pattern
+
 [2]https://en.wikipedia.org/wiki/Callback_(computer_programming)
