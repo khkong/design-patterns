@@ -3,7 +3,7 @@ package strategypattern;
 
 public class TestStrategy {
 
-    public void test() {
+    public static void main(String[] args) {
         Customer firstCustomer = new Customer(new NormalStrategy());
 
         // Normal billing
