@@ -4,7 +4,7 @@
  __클릭시 해당 링크로 이동__
  
  - 1주차: [**[Strategy pattern]**](https://github.com/khkong0928/DesignPattenrs/tree/master/src/strategypattern/strategy.md)
- - 2주차: Observer pattern
+ - 2주차: [**[Observer pattern]**](https://github.com/khkong0928/DesignPattenrs/tree/master/src/observerpattern/observer.md)
  - 3주차: Decorator pattern
  - 4주차: Factory pattern
  - 5주차: Singleton pattern
