@@ -1,7 +1,7 @@
 # Study design patterns
  __기간 : 2017.11.02 ~ 2018.01.18__
  
- __클릭하면 해당 링크로 이동합니다.__
+ __클릭시 해당 링크로 이동__
  
  - 1주차:[**[Strategy pattern]**](https://github.com/khkong0928/DesignPattenrs/tree/master/src/strategypattern/strategy.md)
  - 2주차: Observer pattern
