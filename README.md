@@ -1,5 +1,6 @@
-# Design patterns study
-2017.11.02 ~ 2018.01.18
+# Study design patterns
+ 기간 : 2017.11.02 ~ 2018.01.18
+ 
  - 1주차: [Strategy pattern](https://github.com/khkong0928/DesignPattenrs/tree/master/src/strategypattern/strategy.md)
  - 2주차: Observer pattern
  - 3주차: Decorator pattern
