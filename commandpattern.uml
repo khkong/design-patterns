@@ -3,31 +3,35 @@
   <ID>JAVA</ID>
   <OriginalElement>commandpattern</OriginalElement>
   <nodes>
-    <node x="212.0" y="80.0">commandpattern.TurnOnLightCommand</node>
-    <node x="184.0" y="155.0">commandpattern.Switch</node>
-    <node x="0.0" y="155.0">commandpattern.TestCommand</node>
-    <node x="0.0" y="80.0">commandpattern.TurnOffLightCommand</node>
-    <node x="320.0" y="155.0">commandpattern.Light</node>
-    <node x="145.5" y="0.0">commandpattern.Command</node>
+    <node x="0.0" y="102.0">commandpattern.TurnOnLightCommand</node>
+    <node x="0.0" y="222.0">commandpattern.Switch</node>
+    <node x="0.0" y="364.0">commandpattern.TestCommand</node>
+    <node x="275.0" y="102.0">commandpattern.TurnOffLightCommand</node>
+    <node x="302.0" y="222.0">commandpattern.Light</node>
+    <node x="190.0" y="0.0">commandpattern.Command</node>
   </nodes>
   <notes />
   <edges>
     <edge source="commandpattern.TurnOnLightCommand" target="commandpattern.Command">
-      <point x="0.0" y="-15.0" />
-      <point x="307.0" y="55.0" />
-      <point x="229.5" y="55.0" />
-      <point x="28.0" y="15.0" />
+      <point x="0.0" y="-37.5" />
+      <point x="127.5" y="77.0" />
+      <point x="227.75" y="77.0" />
+      <point x="-37.75" y="26.0" />
     </edge>
     <edge source="commandpattern.TurnOffLightCommand" target="commandpattern.Command">
-      <point x="0.0" y="-15.0" />
-      <point x="96.0" y="55.0" />
-      <point x="173.5" y="55.0" />
-      <point x="-28.0" y="15.0" />
+      <point x="0.0" y="-37.5" />
+      <point x="403.5" y="77.0" />
+      <point x="303.25" y="77.0" />
+      <point x="37.75" y="26.0" />
     </edge>
   </edges>
-  <settings layout="Hierarchic Group" zoom="1.0" x="201.0" y="92.5" />
+  <settings layout="Hierarchic Group" zoom="1.0" x="266.0" y="208.0" />
   <SelectedNodes />
-  <Categories />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
   <SCOPE>All</SCOPE>
   <VISIBILITY>private</VISIBILITY>
 </Diagram>
