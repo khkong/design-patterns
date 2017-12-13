@@ -19,7 +19,18 @@
 ### 다이어그램
 ![ex_screenshot](../../res/observerpattern.jpeg)
 
+### 주의사항
+ - JDK9 부터 [3][Obseralbe](https://docs.oracle.com/javase/9/docs/api/java/util/Observable.html), [4][Observer](https://docs.oracle.com/javase/9/docs/api/java/util/Observer.html)가 없어 짐.
+ - 오라클은 기존 객체들을 대신해서 [5][Flow](https://docs.oracle.com/javase/9/docs/api/java/util/concurrent/Flow.html)를 사용하라고 한다. 
+ - 오라클은 2018년 9월 이후 Java SE 8의 추가 업데이트를 게시하지 않는다고 공식 발표했다.
+ 
 ### 참조:
 [1]https://en.wikipedia.org/wiki/Observer_pattern
 
 [2]https://en.wikipedia.org/wiki/Callback_(computer_programming)
+
+[3]https://docs.oracle.com/javase/9/docs/api/java/util/Observable.html
+
+[4]https://docs.oracle.com/javase/9/docs/api/java/util/Observer.html
+
+[5]https://docs.oracle.com/javase/9/docs/api/java/util/concurrent/Flow.html
