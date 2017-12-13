@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>commandpattern</OriginalElement>
+  <nodes>
+    <node x="212.0" y="80.0">commandpattern.TurnOnLightCommand</node>
+    <node x="184.0" y="155.0">commandpattern.Switch</node>
+    <node x="0.0" y="155.0">commandpattern.TestCommand</node>
+    <node x="0.0" y="80.0">commandpattern.TurnOffLightCommand</node>
+    <node x="320.0" y="155.0">commandpattern.Light</node>
+    <node x="145.5" y="0.0">commandpattern.Command</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="commandpattern.TurnOnLightCommand" target="commandpattern.Command">
+      <point x="0.0" y="-15.0" />
+      <point x="307.0" y="55.0" />
+      <point x="229.5" y="55.0" />
+      <point x="28.0" y="15.0" />
+    </edge>
+    <edge source="commandpattern.TurnOffLightCommand" target="commandpattern.Command">
+      <point x="0.0" y="-15.0" />
+      <point x="96.0" y="55.0" />
+      <point x="173.5" y="55.0" />
+      <point x="-28.0" y="15.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="201.0" y="92.5" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
