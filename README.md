@@ -25,6 +25,17 @@
  - 알고리즘을 사용하는 클라이언트와 알고리즘을 독립적으로 변경할 수 있다.
  - 구현 필수 요구 사항은 데이터 구조의 일부 코드에 대한 참조값을 저장하고 검색하는 기능.
  - [2]개방 폐쇄 원칙 실현(Open/closed principle)에 가장 잘 맞는 패턴.
+ 
+### 클래스 설명
+ - BillingStrategy.java : Strategy interface
+ - NormalStrategy.java : Algorithm object1
+ - HappyHourStrategy.java : Algorithm object2
+ - Customer.java : Managing each algorithm
+ - TestStrategy.java : client
+ 
+### 다이어그램
+ 
+ ![ex_screenshot](res/strategypattern.jpeg)
 
 ### 참조:
 
