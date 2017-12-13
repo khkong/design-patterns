@@ -7,7 +7,8 @@ public class TurnOnLightCommand implements Command {
         this.light = light;
     }
 
-    @Override public void excute() {
+    @Override
+    public void excute() {
         light.turnOn();
     }
 }

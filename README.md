@@ -58,7 +58,7 @@
   
 ### 다이어그램
 
-![ex_screenshot](./commandpattern.jpeg)
+![ex_screenshot](res/commandpattern.jpeg)
 
 ### 참조:
 

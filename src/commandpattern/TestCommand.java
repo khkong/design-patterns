@@ -7,7 +7,7 @@ public class TestCommand {
         TurnOffLightCommand switchDown = new TurnOffLightCommand(light);
         TurnOnLightCommand switchUp = new TurnOnLightCommand(light);
 
-        Switch s = new Switch(switchUp,switchDown);
+        Switch s = new Switch(switchUp, switchDown);
         s.flipUp();
         s.flipDown();
     }

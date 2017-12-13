@@ -25,12 +25,12 @@
       <point x="37.75" y="26.0" />
     </edge>
   </edges>
-  <settings layout="Hierarchic Group" zoom="1.0" x="266.0" y="208.0" />
+  <settings layout="Hierarchic Group" zoom="0.8366214909730803" x="382.5228280280229" y="149.63667470060065" />
   <SelectedNodes />
   <Categories>
+    <Category>Inner Classes</Category>
     <Category>Constructors</Category>
     <Category>Methods</Category>
-    <Category>Inner Classes</Category>
   </Categories>
   <SCOPE>All</SCOPE>
   <VISIBILITY>private</VISIBILITY>

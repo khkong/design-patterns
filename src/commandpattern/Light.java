@@ -1,11 +1,11 @@
 package commandpattern;
 
 public class Light {
-    public void turnOn(){
+    public void turnOn() {
         System.out.println("Turn on the light.");
     }
 
-    public void turnOff(){
+    public void turnOff() {
         System.out.println("Turn off the light.");
     }
 }
