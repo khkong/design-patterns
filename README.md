@@ -30,7 +30,7 @@
  - BillingStrategy.java : Strategy interface
  - NormalStrategy.java : Algorithm object1
  - HappyHourStrategy.java : Algorithm object2
- - Customer.java : Managing each algorithm
+ - Customer.java : Managing each algorithm object
  - TestStrategy.java : client
  
 ### 다이어그램
