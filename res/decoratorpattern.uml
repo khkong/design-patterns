@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>decoratorpattern</OriginalElement>
+  <nodes>
+    <node x="0.0" y="460.0">decoratorpattern.TestDecoratorKt</node>
+    <node x="329.75" y="0.0">decoratorpattern.Window</node>
+    <node x="449.25" y="136.0">decoratorpattern.SimpleWindow</node>
+    <node x="0.0" y="295.0">decoratorpattern.VerticalScrollBarDecorator</node>
+    <node x="298.0" y="295.0">decoratorpattern.HorizontalScrollBarDecorator</node>
+    <node x="155.25" y="125.0">decoratorpattern.WindowDecorator</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="decoratorpattern.VerticalScrollBarDecorator" target="decoratorpattern.WindowDecorator">
+      <point x="0.0" y="-60.0" />
+      <point x="139.0" y="270.0" />
+      <point x="223.75" y="270.0" />
+      <point x="-68.5" y="60.0" />
+    </edge>
+    <edge source="decoratorpattern.WindowDecorator" target="decoratorpattern.Window">
+      <point x="0.0" y="-60.0" />
+      <point x="292.25" y="100.0" />
+      <point x="370.75" y="100.0" />
+      <point x="-41.0" y="37.5" />
+    </edge>
+    <edge source="decoratorpattern.SimpleWindow" target="decoratorpattern.Window">
+      <point x="0.0" y="-49.0" />
+      <point x="531.25" y="100.0" />
+      <point x="452.75" y="100.0" />
+      <point x="41.0" y="37.5" />
+    </edge>
+    <edge source="decoratorpattern.HorizontalScrollBarDecorator" target="decoratorpattern.WindowDecorator">
+      <point x="0.0" y="-60.0" />
+      <point x="445.5" y="270.0" />
+      <point x="360.75" y="270.0" />
+      <point x="68.5" y="60.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.5488721804511278" x="311.0" y="256.0" />
+  <SelectedNodes>
+    <node>decoratorpattern.TestDecoratorKt</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+    <Category>Constructors</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
