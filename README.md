@@ -5,7 +5,7 @@
  
  - 1주차: [**[Strategy pattern]**](https://github.com/khkong0928/DesignPattenrs/tree/master/src/strategypattern/strategy.md)
  - 2주차: [**[Observer pattern]**](https://github.com/khkong0928/DesignPattenrs/tree/master/src/observerpattern/observer.md)
- - 3주차: Decorator pattern
+ - 3주차: [**[Decorator pattern]**](https://github.com/khkong0928/DesignPattenrs/tree/master/src/decoratorpattern/decorator.md)
  - 4주차: Factory pattern
  - 5주차: Singleton pattern
  - 6주차: [**[Command pattern]**](https://github.com/khkong0928/DesignPattenrs/tree/master/src/commandpattern/command.md)
