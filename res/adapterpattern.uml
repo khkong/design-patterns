@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>adapterpattern.EnumerationIterator</OriginalElement>
+  <nodes>
+    <node x="0.0" y="0.0">java.util.Iterator</node>
+    <node x="36.5" y="168.0">adapterpattern.EnumerationIterator</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="adapterpattern.EnumerationIterator" target="java.util.Iterator">
+      <point x="0.0" y="-71.0" />
+      <point x="0.0" y="59.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="179.0" y="155.0" />
+  <SelectedNodes>
+    <node>adapterpattern.EnumerationIterator</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Inner Classes</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
