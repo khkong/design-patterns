@@ -9,7 +9,7 @@
  - 4주차: Factory pattern
  - 5주차: [**[Singleton pattern]**](https://github.com/khkong0928/DesignPattenrs/tree/master/src/singletonpattern/singleton.md)
  - 6주차: [**[Command pattern]**](https://github.com/khkong0928/DesignPattenrs/tree/master/src/commandpattern/command.md)
- - 7주차: [**[Adapter pattern]**](https://github.com/khkong0928/DesignPattenrs/tree/master/src/adapterpattern/adapter.md) & Facade pattern
+ - 7주차: [**[Adapter pattern]**](https://github.com/khkong0928/DesignPattenrs/tree/master/src/adapterpattern/adapter.md) & [**[Facade pattern]**](https://github.com/khkong0928/DesignPattenrs/tree/master/src/facadepattern/facade.md)
  - 8주차: Template method pattern
  - 9주차: Iterators and composite patterns
  - 10주차: State pattern
