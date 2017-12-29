@@ -7,10 +7,14 @@
  - 시스템의 복잡성을 숨기고 클라이언트에게 간단한 인터페이스를 제공한다.
     
 ### 클래스 설명
- -  
+ - CPU.java : A class imitating a CPU.
+ - Memory.java : A class that mimics memory.
+ - HardDrive.java : A class imitating a hard drive.
+ - ComputerFacade.java : Facade pattern
+ - TestFacade.java : Test class
  
 ### 다이어그램
 ![ex_screenshot](../../res/facadepattern.jpeg)
 
 ### 참조:
-[1]
+[1]https://en.wikipedia.org/wiki/Adapter_pattern
