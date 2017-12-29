@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>facadepattern</OriginalElement>
+  <nodes>
+    <node x="228.99999999999994" y="156.0">facadepattern.ComputerFacade</node>
+    <node x="229.99999999999994" y="370.0">facadepattern.TestFacade</node>
+    <node x="447.0" y="0.0">facadepattern.CPU</node>
+    <node x="218.99999999999997" y="22.0">facadepattern.Memory</node>
+    <node x="0.0" y="22.0">facadepattern.HardDrive</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="facadepattern.ComputerFacade" target="facadepattern.Memory">
+      <point x="15.666666666666686" y="-82.0" />
+      <point x="338.66666666666663" y="116.0" />
+      <point x="375.0" y="116.0" />
+      <point x="52.0" y="26.0" />
+    </edge>
+    <edge source="facadepattern.ComputerFacade" target="facadepattern.HardDrive">
+      <point x="-46.99999999999997" y="-82.0" />
+      <point x="276.0" y="126.0" />
+      <point x="149.25" y="126.0" />
+      <point x="49.75" y="26.0" />
+    </edge>
+    <edge source="facadepattern.ComputerFacade" target="facadepattern.CPU">
+      <point x="78.33333333333331" y="-82.0" />
+      <point x="401.33333333333326" y="136.0" />
+      <point x="572.25" y="136.0" />
+      <point x="41.75" y="48.0" />
+    </edge>
+    <edge source="facadepattern.TestFacade" target="facadepattern.ComputerFacade">
+      <point x="46.5" y="-26.0" />
+      <point x="47.0" y="82.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.9095022624434389" x="337.5049751243781" y="191.0" />
+  <SelectedNodes>
+    <node>facadepattern.ComputerFacade</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
