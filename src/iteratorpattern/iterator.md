@@ -10,9 +10,11 @@
    2. 클라이언트는 자료구조의 정보없이 원소를 접근하고 선회하는데 반복자를 사용한다.
    
 ### 클래스 설명
- - Iterator.java : 자바가 기본적으로 제공하는 인터페이스
- - Collection.java : 자바가 기본적으로 제공하는 인터페이스로, Map, List, Table등의 자료구조를 제공한다. Iterable.java 를 상속한다. 
+ - [2][Iterator.java](https://docs.oracle.com/javase/9/docs/api/java/util/Iterator.html) : 자바가 기본적으로 제공하는 인터페이스
+ - [3][Collection.java](https://docs.oracle.com/javase/9/docs/api/java/awt/Container.html) : 자바가 기본적으로 제공하는 인터페이스로, Map, List, Set, Table등의 자료구조를 제공한다. Iterable.java 를 상속한다. 
 자바 5에서 Iterable 인터페이스를 구현하는 객체는 자바의 foreach 루프 구문을 사용하여 추적 할 수 있습니다
     
 ### 참조:
 [1]https://en.wikipedia.org/wiki/Iterator_pattern
+[2]https://docs.oracle.com/javase/9/docs/api/java/util/Iterator.html
+[3]https://docs.oracle.com/javase/9/docs/api/java/awt/Container.html
