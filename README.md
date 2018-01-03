@@ -11,7 +11,7 @@
  - 6주차: [**[Command pattern]**](https://github.com/khkong0928/DesignPattenrs/tree/master/src/commandpattern/command.md)
  - 7주차: [**[Adapter pattern]**](https://github.com/khkong0928/DesignPattenrs/tree/master/src/adapterpattern/adapter.md) & [**[Facade pattern]**](https://github.com/khkong0928/DesignPattenrs/tree/master/src/facadepattern/facade.md)
  - 8주차: Template method pattern
- - 9주차: [**[Iterators]**](https://github.com/khkong0928/DesignPattenrs/tree/master/src/iteratorpattern/iterator.md) and composite patterns
+ - 9주차: [**[Iterators]**](https://github.com/khkong0928/DesignPattenrs/tree/master/src/iteratorpattern/iterator.md) and [**[composite patterns]**](https://github.com/khkong0928/DesignPattenrs/tree/master/src/compositepattern/composite.md)
  - 10주차: State pattern
  - 11주차: The proxy pattern
  - 12주차: The compound pattern (MVC)
