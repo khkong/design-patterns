@@ -9,7 +9,7 @@
  - 
  
 ### 다이어그램
-![ex_screenshot](../../res/proxypattern.jpeg)
+![ex_screenshot](../../res/proxypattern.png)
 
 ### 참조:
 [1]https://en.wikipedia.org/wiki/Proxy_pattern
