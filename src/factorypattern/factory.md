@@ -27,3 +27,5 @@
 [1]https://en.wikipedia.org/wiki/Dependency_inversion_principle
 
 [2]https://en.wikipedia.org/wiki/Factory_method_pattern
+
+[3]https://www.tutorialspoint.com/design_pattern/
