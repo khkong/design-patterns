@@ -1,6 +1,8 @@
 # 디자인 패턴 스터디
  __기간 : 2017.11.02 ~ 2018.01.18__
    
+ Wiki, Head First Design Patterns, [Tutorialspoint/design_pattern/](https://www.tutorialspoint.com/design_pattern/) 등을 참조하여 스터디를 진행하였음.
+   
  ## 스터디 커리큘럼
  - 1주차: [**[Strategy pattern]**](https://github.com/khkong0928/DesignPattenrs/tree/master/src/strategypattern/strategy.md)
  - 2주차: [**[Observer pattern]**](https://github.com/khkong0928/DesignPattenrs/tree/master/src/observerpattern/observer.md)
