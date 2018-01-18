@@ -19,6 +19,9 @@
  - StateMultipleUpperCase.java : State algorithm2
  - StateContext.java : Objects that use state. 
  - DemoOfClientState : Client
+
+### 주의 사항
+ - 상태 객체는 싱글톤패턴을 적용한다.
  
 ### 다이어그램
 ![ex_screenshot](../../res/statepattern.jpeg)
