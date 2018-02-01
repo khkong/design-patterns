@@ -15,7 +15,7 @@
  - 9주차: [**[Iterators]**](https://github.com/khkong0928/DesignPattenrs/tree/master/src/iteratorpattern/iterator.md) & [**[composite patterns]**](https://github.com/khkong0928/DesignPattenrs/tree/master/src/compositepattern/composite.md)
  - 10주차: [**[State pattern]**](https://github.com/khkong0928/DesignPattenrs/tree/master/src/statepattern/state.md)
  - 11주차: [**[Proxy pattern]**](https://github.com/khkong0928/DesignPattenrs/tree/master/src/proxypattern/proxy.md)
- - 12주차: The compound pattern (MVC)
+ - 12주차: [**[The compound pattern (MVC)]**](https://github.com/khkong0928/DesignPattenrs/tree/master/src/mvcpattern/mvc.md)
  
 ## 추가 학습 
  - Bridge Pattern
