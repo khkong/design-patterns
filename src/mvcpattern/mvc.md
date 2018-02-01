@@ -8,12 +8,17 @@ MVC pattern은 모델 - 뷰 - 컨트롤러 패턴을 뜻한다. 응용프로그�
  - View : 사용자가 볼 결과물을 생성하기 위해 모델로부터 정보를 얻어온다.
     
    ![ex_screenshot](../../res/ex_mvc.png)
-   ![ex_screenshot](../../res/ex_mvc.svg)
    
 ### 클래스 설명
+ - StudentController : Controller
+ - Student : Model
+ - StudentView : View
+ - MVCPatternDemo : Client
  
 ### 다이어그램
-![ex_screenshot](../../res/mvcpattern.jpeg)
+![ex_screenshot](../../res/mvc_pattern_uml_diagram.jpg)
 
 ### 참조:
 [1]https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller
+
+[2]https://www.tutorialspoint.com/design_pattern/mvc_pattern.htm
