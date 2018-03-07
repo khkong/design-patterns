@@ -1,4 +1,7 @@
-# 디자인 패턴 스터디
+# design-patterns
+
+ __디자인패턴 스터디__
+
  __기간 : 2017.11.02 ~ 2018.01.18__
    
  Wiki, Head First Design Patterns, [Tutorialspoint/design_pattern/](https://www.tutorialspoint.com/design_pattern/) 등을 참조하여 스터디를 진행하였음.
